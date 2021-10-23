@@ -1,0 +1,4 @@
+Student Performance Analytic tool
+
+            Student Performance Analytic tool is a integrated software that manages all the aspects of student and records his/her performance in its database. This network is well designed to accommodate all the needs of an institution regarding their students performance. To make this system more meaningful I've chosen to implement the Factory design pattern.
+            The various components present in this system are Student analysis, post graduate student record, Student type, Monthly report of the performance of the students, etc. Moreover, the program is highly abstracted and even people who doesn't have an IT background can easily work and improve on it.
